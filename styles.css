@@ -1,0 +1,9 @@
+.product {
+  border: 4px solid black;
+}
+
+.product-title {
+  text-align: center;
+  font-size: 22px;
+  text-transform: uppercase;
+}
