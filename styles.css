@@ -6,4 +6,15 @@
   text-align: center;
   font-size: 22px;
   text-transform: uppercase;
+  background-color: #f7f7f7;
+}
+
+/* PRODUCT INFORMATION */
+.price {
+  font-size: 24px;
+}
+
+.shipping {
+  font-size: 12px;
+  text-transform: uppercase;
 }
