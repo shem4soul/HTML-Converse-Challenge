@@ -1,6 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 body {
   font-family: sans-serif;
   line-height: 1.4;
+}
+
+.container {
+  width: 825px;
+  margin: 0px auto;
 }
 
 /* PRODUCT */
@@ -45,6 +54,7 @@ body {
 
 .details-list {
   list-style-type: square;
+  margin: 20px;
 }
 
 /* BUTTON */
