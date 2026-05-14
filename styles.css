@@ -68,13 +68,13 @@ text-align: center; */
 .more-info:link,
 .more-info:visited {
   color: black;
+  margin-bottom: 30px;
+  display: inline-block;
 }
 
 .more-info:hover,
 .more-info:active {
   text-decoration: none;
-  margin-bottom: 30px;
-  display: inline-block;
 }
 
 .color {
